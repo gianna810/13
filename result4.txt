@@ -1,0 +1,54 @@
+Enter number of players: 
+===== Sookmyung Marble =====
+
+Turn 1
+Player   : Player1
+Dice     : 6
+Position : Restaurant
+Credit   : 0
+Energy   : 18
+
+Turn 2
+Player   : Player2
+Dice     : 6
+Position : Restaurant
+Credit   : 0
+Energy   : 18
+
+Turn 3
+Player   : Player1
+Dice     : 5
+Position : Mathematics
+Course completed: Mathematics
+Credit   : 3
+Energy   : 21
+
+Turn 4
+Player   : Player2
+Dice     : 5
+Position : Mathematics
+Course completed: Mathematics
+Credit   : 3
+Energy   : 21
+
+Turn 5
+Player   : Player1
+Dice     : 6
+Position : Programming
+Course completed: Programming
+Credit   : 6
+Energy   : 29
+Winner: Player1
+
+Player: Player1
+
+===== Grade Report =====
+Mathematics : 4.0 (3 credits)
+Programming : 4.0 (3 credits)
+
+Player: Player2
+
+===== Grade Report =====
+Mathematics : 4.0 (3 credits)
+
+Memory released successfully.
